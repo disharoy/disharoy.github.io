@@ -70,5 +70,9 @@ theme: disha
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# Deployment
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:disharoy/disharoy.github.io.git
+  branch: master

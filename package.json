@@ -1,7 +1,14 @@
 {
-  "name": "Disha Portfolio",
+  "name": "disha-portfolio",
   "version": "0.0.1",
   "private": true,
+  "description": "Disha's Portfolio",
+  "author": "Palash M <mpalash@gmail.com> (http://github.com/mpalash)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:disharoy/disharoy.github.io.git"
+  },
   "hexo": {
     "version": "3.2.2"
   },
