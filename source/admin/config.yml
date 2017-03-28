@@ -1,0 +1,9 @@
+backend:
+  name: github
+  repo: disharoy/disharoy.github.io.git # Path to your Github repository
+  branch: master # Branch to update
+
+publish_mode: editorial_workflow
+
+media_folder: "source/images"
+public_folder: "/images"
