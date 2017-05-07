@@ -1,4 +1,3 @@
-layout: blog
 title: Premiere
 date: 2017-03-26 18:51:00
 tags:
