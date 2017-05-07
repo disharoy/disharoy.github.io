@@ -8,7 +8,7 @@ subtitle:
 description: Portfolio
 author: Disha Roy
 language: EN
-timezone: Finland
+timezone: Europe/Helsinki
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -26,10 +26,11 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - admin/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: page
+default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
@@ -52,8 +53,12 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
+
+# Extensions
+exclude_generator:
+- index
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -61,9 +66,6 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
-exclude_generator:
-- index
-
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: disha
@@ -71,6 +73,4 @@ theme: disha
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:disharoy/disharoy.github.io.git
-  branch: master
+  type:
