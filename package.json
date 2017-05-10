@@ -10,7 +10,7 @@
     "url": "git@github.com:disharoy/disharoy.github.io.git"
   },
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.3.5"
   },
   "scripts": {
     "start": "hexo server"
