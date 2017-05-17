@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soundian
-date: 2017-05-17T13:34:57.860Z
+date: 05/17/2014 4:34 PM
 thumb: /images/thumb_soundian.png
 tags:
   - Interaction Design
@@ -24,3 +24,4 @@ While working at Telekom Innovation Lab's Creation Centre, I developed the user 
 ![](/images/06Soundian.png)
 
 <iframe src="https://player.vimeo.com/video/217837878" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
