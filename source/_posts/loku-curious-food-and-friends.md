@@ -25,7 +25,7 @@ The service has been explored with new international students at the core, but c
 
 Loku has 3 key aspects informed by our design process and insights:
 
-**1. Loku tackles stereotypes.** Loku replaces the focus on profile photos during sign up since it often leads to ethnic or racial bias. Loku's sign up allows users freely operate in the Loku universe with a profile based on only food interests. 2. Loku is proactive. Loku learns about the user and offers curated choices. It also makes it easy for user to mix and match elements to create their ideal outing. Examples of this could be — A barbecue on an island nearby or invite Loku guests over for a sushi class. 3. Loku supports collaboration. Loku brings food entrepreneurs who are passionate about the same goal closer to users. The service makes it easier for new and old locals to host events and become cultural champions.
+**1. Loku tackles stereotypes.** Loku replaces the focus on profile photos during sign up since it often leads to ethnic or racial bias. Loku's sign up allows users freely operate in the Loku universe with a profile based on only food interests. **2. Loku is proactive.** Loku learns about the user and offers curated choices. It also makes it easy for user to mix and match elements to create their ideal outing. Examples of this could be — A barbecue on an island nearby or invite Loku guests over for a sushi class. **3. Loku supports collaboration.** Loku brings food entrepreneurs who are passionate about the same goal closer to users. The service makes it easier for new and old locals to host events and become cultural champions.
 
 ![null](/public/images/03Loku.png)
 

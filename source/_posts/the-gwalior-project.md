@@ -11,7 +11,7 @@ I completed my BA Thesis Project at a design studio called Play Clan. In Play Cl
 
 ![null](/images/01Gwalior.png)
 
-I started by visiting and experiencing the flavours of the historical city of Gwalior. In my research phase, I aimed to collect humourous and captivating stories of blue blooded warriors, cunning dacoits and legendary places. At the end of this stage, I had created a bank of informative yet fresh and exciting anecdotes.
+I started by visiting and experiencing the flavours of the historical city of Gwalior. In my research phase, I aimed to collect humorous and captivating stories of blue blooded warriors, cunning dacoits and legendary places. At the end of this stage, I had created a bank of informative yet fresh and exciting anecdotes.
 
 ![null](/images/02Gwalior.png)
 
@@ -34,7 +34,3 @@ Finally, the material created for the Book were adapted to a range of products, 
 ![null](/images/09Gwalior.png)
 
 ![null](/images/10Gwalior.png)
-
-
-
-

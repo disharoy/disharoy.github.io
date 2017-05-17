@@ -7,7 +7,7 @@ tags:
   - Interaction Design
   - UI/UX
 ---
-As an exercise in Design Strategy and Innovation, I developed a hypothetical brand strategy for an existing startup - \*\*[Coin. ](https://onlycoin.com/)\*\*At this time, Coin was essentially a card that could replace all other cards in your wallet. Over 4 weeks, my team worked on extending Coin's brand strategy[ ](https://onlycoin.com/)into a scalable venture using a combination of entrepreneurial and design thinking.The final result is Coin Visible - a financial service that taps into an uncatered market of freelancers.
+As an exercise in Design Strategy and Innovation, I developed a hypothetical brand strategy for an existing startup - **[Coin.](https://onlycoin.com/)** At this time, Coin was essentially a card that could replace all other cards in your wallet. Over 4 weeks, my team worked on extending Coin's brand strategy[ ](https://onlycoin.com/)into a scalable venture using a combination of entrepreneurial and design thinking.The final result is Coin Visible - a financial service that taps into an uncatered market of freelancers.
 
 <iframe src="https://player.vimeo.com/video/217838642" width="640" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
