@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take & Tell
-date: 2017-05-17T13:23:55.455Z
+date: 05/17/2015 4:23 PM
 thumb: /images/thumb_take-tell.png
 tags:
   - Branding
@@ -30,3 +30,4 @@ I used the initial concept to create a dynamic dotted grid which could adapt to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dkvaYzaZ_Uk" frameborder="0" allowfullscreen></iframe>
 
 ***The Take & Tell song has been animated by [Luyi Ma](http://luyima.com/)***
+
