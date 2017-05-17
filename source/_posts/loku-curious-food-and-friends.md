@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: 'Loku: Curious food and friends'
 date: 2017-05-17T13:46:21.348Z
 tags:

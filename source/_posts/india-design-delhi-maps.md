@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: 'India Design: Delhi Maps'
 date: 2017-05-17T13:54:43.661Z
 tags:

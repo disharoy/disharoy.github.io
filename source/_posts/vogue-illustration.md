@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Vogue Illustration"
 date: 2017-05-07T20:03:20.745Z
 tags:

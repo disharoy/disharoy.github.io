@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Premiere"
 date: 2017-05-07T20:03:20.745Z
 tags:

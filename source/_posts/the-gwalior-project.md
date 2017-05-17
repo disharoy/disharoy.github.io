@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: The Gwalior Project
 date: 2017-05-17T13:58:30.503Z
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Take & Tell
 date: 2017-05-17T13:23:55.455Z
 tags:
