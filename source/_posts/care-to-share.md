@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Care to Share
-date: 2017-05-17T13:17:52.365Z
+date: 08/17/2016 4:17 PM
 thumb: /images/thumb_care2share.png
 tags:
   - User Experience
@@ -22,3 +22,4 @@ Over the 1 year long project, I played contributed in the capacity of design res
 ![](/images/05C2S.png)
 
 [M4ID](http://m4id.fi/project/care2share/) is the strategic design partner on this project. [Read more](http://m4id.fi/project/care2share/) about the project onM4ID's website.The final design outcome from this project will be published later this year.
+
