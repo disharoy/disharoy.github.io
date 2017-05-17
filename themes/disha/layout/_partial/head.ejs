@@ -32,15 +32,18 @@
     $(function(){
       // Active nav-link
       var pathname = window.location.pathname;
-      console.log('pathname', pathname);
 	    $('nav li > a[href="'+pathname+'"]').addClass('active');
 
       // Scroll to top
-      var docHeight = $('body').height();
-      var winHeight = $(window).height();
-      if(winHeight > docHeight) {
-        $('html').addClass('disable-back-to-top');
-      }
+      setTimeout(function(){
+        var docHeight = $('.project').height();
+        console.log('docHeight', docHeight);
+        var winHeight = $(window).height();
+        console.log('winHeight', winHeight);
+        if(winHeight > docHeight) {
+          $('html').addClass('disable-back-to-top');
+        }
+      }, 2000);
       $('.back-to-top a').each(function(){
         $(this).click(function(event){
           event.preventDefault();
