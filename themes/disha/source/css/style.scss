@@ -2477,3 +2477,15 @@ nav .link-title {
     margin: 2% 2% 0 2%;
   }
 }
+
+div[data-reactroot] {
+  padding: 20px;
+  h1 {
+    color: #43c4ba;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1em;
+  }
+}
