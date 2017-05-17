@@ -11,6 +11,10 @@ This MA Thesis is an exploration of the social constructs among the locals of He
 
 The solution is inspired by our universal need and love for food. Loku, a service for the locals of Helsinki. Loku brings together the three things we need most to feel at home - friends, knowing the city and its little secrets well, and of course - good food! Loku learns about the user and invite her/him to adventures tailored to their passions, and will also help them curate their own food events. On the Loku platform, one will find efforts by inspiring food initiatives and cultural champions across Helsinki.
 
+<iframe src="https://player.vimeo.com/video/217839744" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/217839744">Loku : Curious Friends and Food</a> from <a href="https://vimeo.com/user6601192">disha roy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ![null](/public/images/01Loku.gif)
 
 The one year long joint thesis with\*\*[ Lisa Lee ](http://pixelorpaper.com/)\*\*started with a strong personal motivation, and no final outcome in mind. We explored various routes and gathered experiences of locals and food activists in Helsinki. We tested ideas that excited us in the form of quick design interventions. These ranged from trying to use food as currency at a food festival, to sharing cultural etiquette at ethnic grocery stores.
@@ -19,7 +23,7 @@ The service has been explored with new international students at the core, but c
 
 ![null](/public/images/02Loku.gif)
 
-Loku has 3 key aspects informed by our design process and insights: 
+Loku has 3 key aspects informed by our design process and insights:
 
 **1. Loku tackles stereotypes.** Loku replaces the focus on profile photos during sign up since it often leads to ethnic or racial bias. Loku's sign up allows users freely operate in the Loku universe with a profile based on only food interests. 2. Loku is proactive. Loku learns about the user and offers curated choices. It also makes it easy for user to mix and match elements to create their ideal outing. Examples of this could be — A barbecue on an island nearby or invite Loku guests over for a sushi class. 3. Loku supports collaboration. Loku brings food entrepreneurs who are passionate about the same goal closer to users. The service makes it easier for new and old locals to host events and become cultural champions.
 
@@ -36,5 +40,3 @@ To understand if this concept is of value, we simulated one scenario within Loku
 Loku's pilot events have been well received by core users, and now will be explored among other partners and stakeholders to design a strategy around this concept.
 
 ![null](/public/images/07Loku.gif)
-
-
