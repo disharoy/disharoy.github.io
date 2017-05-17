@@ -2483,9 +2483,16 @@ div[data-reactroot] {
   h1 {
     color: #43c4ba;
   }
+  p,
   img {
     display: block;
     max-width: 100%;
     margin-bottom: 1em;
+  }
+  p,
+  span,
+  a {
+    font-size: 14px;
+    line-height: 1.3em;
   }
 }
