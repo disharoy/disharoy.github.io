@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Loku: Curious food and friends'
-date: 2017-05-17T13:46:21.348Z
+date: 05/17/2016 4:46 PM
 thumb: /images/thumb_loku.png
 tags:
   - Graphic Design
@@ -39,3 +39,4 @@ To understand if this concept is of value, we simulated one scenario within Loku
 Loku's pilot events have been well received by core users, and now will be explored among other partners and stakeholders to design a strategy around this concept.
 
 ![](/images/07Loku.gif)
+
