@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coin Visible
-date: 2017-05-17T13:40:25.420Z
+date: 08/17/2014 4:40 PM
 thumb: /images/thumb_coin.png
 tags:
   - Entrepreneurship
@@ -23,3 +23,4 @@ The Coin Card allows users to carry and swipe all your cards using just one card
 When the users are doing well on their budgets and have a positive balance, the Impulse saving feature helps them put the money aside. The app widget simply shows a positive or negative balance indicator with is synced with the card itself, so that the user is always aware of the overall situation.
 
 ![](/images/03Coin.gif)
+
