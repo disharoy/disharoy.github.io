@@ -21,7 +21,6 @@
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-generator-index": "^0.2.1",
-    "hexo-generator-index-plus": "^1.0.0",
     "hexo-image-caption": "^0.1.1",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
