@@ -1791,6 +1791,18 @@ nav .link-title {
     text-align: center;
     text-transform: none;
 }
+.rich-text .caption {
+    color: #43c4ba;
+    font-size: inherit;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 1.2em;
+    display: block;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: left;
+    text-transform: none;
+}
 @media (max-width: 768px) {
     .rich-text .title {
         font-size: 31px;
@@ -1818,10 +1830,10 @@ nav .link-title {
     .module-caption div,
     .module-caption p,
     .rich-text .caption {
-        font-size: 14px;
-        line-height: 20px;
-        padding-bottom: 0;
-        padding-top: 11px;
+        // font-size: 14px;
+        // line-height: 20px;
+        // padding-bottom: 0;
+        // padding-top: 11px;
     }
 
     .modules .audio,
@@ -1893,15 +1905,15 @@ nav .link-title {
     .rich-text div span,
     .rich-text p,
     .rich-text p span {
-        font-size: 14px !important;
-        line-height: 20px !important;
+        // font-size: 14px !important;
+        // line-height: 20px !important;
     }
 
     .module-caption div,
     .module-caption p,
     .rich-text .caption {
-        padding-bottom: 0;
-        padding-top: 10px;
+        // padding-bottom: 0;
+        // padding-top: 10px;
     }
 
     .module-caption div,
@@ -1910,8 +1922,8 @@ nav .link-title {
     .module-caption p span,
     .rich-text .caption,
     .rich-text .caption span {
-        font-size: 14px !important;
-        line-height: 20px !important;
+        // font-size: 14px !important;
+        // line-height: 20px !important;
     }
 
     .modules .image {

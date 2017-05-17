@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Soundian
 date: 2017-05-17T13:34:57.860Z
 tags:
@@ -12,15 +12,14 @@ While working at Telekom Innovation Lab's Creation Centre, I developed the user 
 
 ![Users create or choose from available sound packs and share these across chat apps or within Soundian.](/images/01Soundian.png)
 
-![null](/images/02Soundian.png)
+![](/images/02Soundian.png)
 
-![null](/images/03Soundian.png)
+![](/images/03Soundian.png)
 
-![null](/images/04Soundian.png)
+![](/images/04Soundian.png)
 
-![null](/images/05Soundian.png)
+![](/images/05Soundian.png)
 
-![null](/images/06Soundian.png)
+![](/images/06Soundian.png)
 
 <iframe src="https://player.vimeo.com/video/217837878" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-

@@ -10,17 +10,17 @@ tags:
 
 The campaign was launched at WHO Geneva on April 17th.
 
-![null](/images/01T&T.png)
+![](/images/01T&T.png)
 
 When I joined the team, our client (Uppsala Monitoring Centre) had already chosen one campaign strategy. I was provided with a brief containing some key visual elements and asked to give the visual identity an active and approachable quality.
 
 I used the initial concept to create a dynamic dotted grid which could adapt to various collaterals. The logo type aims to have feel approachable, while the visual elements complement the message about having an active dialogue about your medication and side effects.
 
-![null](/images/02T&T.png)
+![](/images/02T&T.png)
 
-![null](/images/03T&T.png)
+![](/images/03T&T.png)
 
-![null](/images/04T&T.png)
+![](/images/04T&T.png)
 
 **[Take & Tell](http://www.takeandtell.org/)** aims to facilitate dialogue between doctors and patients. The application allows patient to report side effects, and this data is collected by WHO's VigiBase to better identify, characterize and understand the potential risks of medicines. With more information about side effects, medicines can be made significantly safer and lives and money will be saved.
 

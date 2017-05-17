@@ -44,6 +44,11 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# add caption for iamges
+image_caption:
+  enable: true #false to disable
+  class_name: 'caption'
+
 # Category & Tag
 default_category: uncategorized
 category_map:

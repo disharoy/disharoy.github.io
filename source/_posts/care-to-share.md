@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Care to Share
 date: 2017-05-17T13:17:52.365Z
 tags:
@@ -18,7 +18,6 @@ Over the 1 year long project, I played contributed in the capacity of design res
 
 ![Translating learnings to develop wireframes for digital touch points for a service concept with Kallan.](/images/04C2S.jpg)
 
-![null](/images/05C2S.png)
+![](/images/05C2S.png)
 
 [M4ID](http://m4id.fi/project/care2share/) is the strategic design partner on this project. [Read more](http://m4id.fi/project/care2share/) about the project onM4ID's website.The final design outcome from this project will be published later this year.
-
