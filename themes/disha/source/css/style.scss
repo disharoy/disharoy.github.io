@@ -11,6 +11,10 @@
    * 2. Prevent iOS text size adjust after orientation change, without disabling
    *    user zoom.
    */
+.wf-loading {
+  visibility: hidden;
+}
+
 html,
 body,
 div[data-reactroot] {

@@ -38,7 +38,8 @@
     $(function(){
       // Active nav-link
       var pathname = window.location.pathname;
-	    $('nav li > a[href="'+pathname+'"]').addClass('active');
+      console.log('pathname', pathname);
+	    $('nav a[href="'+pathname+'"]').addClass('active');
 
       // Resize Iframes
       setTimeout(fixIframes, 100);
