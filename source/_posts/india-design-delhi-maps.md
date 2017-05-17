@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'India Design: Delhi Maps'
-date: 2017-05-17T13:54:43.661Z
+date: 05/17/2013 4:54 PM
 thumb: /images/thumb_delhi-maps.jpg
 tags:
   - Graphic Design
@@ -26,3 +26,4 @@ The maps cover good food, locales and shopping while simultaneously promoting I
 ![](/images/07DelhiMap.jpg)
 
 ![](/images/08DelhiMap.jpg)
+
