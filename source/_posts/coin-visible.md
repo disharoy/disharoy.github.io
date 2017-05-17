@@ -13,14 +13,14 @@ As an exercise in Design Strategy and Innovation, I developed a hypothetical br
 
 <p><a href="https://vimeo.com/217838642">Coin</a> from <a href="https://vimeo.com/user6601192">disha roy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-![null](/public/images/01Coin.png)
+![null](/images/01Coin.png)
 
 Product Generations : A step-by-step generational plan shows how the product portfolio expands over time. The introduction of each stage is thoughtfully planned to build upon previous products, adapt to changes in the future marketplace and make use of the resource of users acquired in the growth.
 
-![null](/public/images/02Coin.gif)
+![null](/images/02Coin.gif)
 
 The Coin Card allows users to carry and swipe all your cards using just one card. We built upon this value proposition by creating a budgeting app. The Coin Visible app helps freelancers with variable incomes pay themselves a fixed salary per month. Within this income, they can create budgets for their expenses. Since all their transactions are made through the Coin Card, the app can automatically track and log expenses into the budget categories.
 
 When the users are doing well on their budgets and have a positive balance, the Impulse saving feature helps them put the money aside. The app widget simply shows a positive or negative balance indicator with is synced with the card itself, so that the user is always aware of the overall situation.
 
-![null](/public/images/03Coin.gif)
+![null](/images/03Coin.gif)
