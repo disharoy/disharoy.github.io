@@ -10,20 +10,21 @@ I illustrated a set of maps as a pocket friendly guide of handpicked recommendat
 
 The maps cover good food, locales and shopping while simultaneously promoting India Design Week - India’s largest annual design festival.
 
-![null](/public/images/01DelhiMap.jpg)
+![null](/images/01DelhiMap.jpg)
 
-![null](/public/images/02DelhiMap.jpg)
+![null](/images/02DelhiMap.jpg)
 
-![null](/public/images/03DelhiMap.jpg)
+![null](/images/03DelhiMap.jpg)
 
-![null](/public/images/04DelhiMap.jpg)
+![null](/images/04DelhiMap.jpg)
 
-![null](/public/images/05DelhiMap.jpg)
+![null](/images/05DelhiMap.jpg)
 
-![null](/public/images/06DelhiMap.jpg)
+![null](/images/06DelhiMap.jpg)
 
-![null](/public/images/07DelhiMap.jpg)
+![null](/images/07DelhiMap.jpg)
 
-![null](/public/images/08DelhiMap.jpg)
+![null](/images/08DelhiMap.jpg)
+
 
 
