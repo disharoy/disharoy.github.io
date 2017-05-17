@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Vogue Illustration"
-date: 2017-05-07T20:03:20.745Z
+title: Vogue Illustration
+date: 05/07/2012 11:03 PM
 thumb: /images/thumb_vogue.jpg
 tags:
   - Illustration
@@ -13,3 +13,4 @@ This project was commissioned to Play Clan by Vogue Magazine’s for their 5th a
 ![](/images/vogue-02.jpg)
 
 ![](/images/vogue-03.jpg)
+
