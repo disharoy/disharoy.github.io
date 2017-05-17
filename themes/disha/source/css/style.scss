@@ -2476,3 +2476,7 @@ nav .link-title {
     margin: 2% 2% 0 2%;
   }
 }
+
+div[data-reactroot]{
+  font-family: inherit !important;
+}
