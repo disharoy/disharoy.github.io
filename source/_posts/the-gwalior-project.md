@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gwalior Project
-date: 05/17/2013 4:58 PM
+date: 02/17/2013 4:58 PM
 thumb: /images/thumb_gwalior.png
 tags:
   - Copywriting
@@ -35,4 +35,5 @@ Finally, the material created for the Book were adapted to a range of products, 
 ![](/images/09Gwalior.png)
 
 ![](/images/10Gwalior.png)
+
 
