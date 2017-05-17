@@ -1,33 +1,29 @@
-<% if (pagination == 2){ %>
+<section class="project-covers">
   <% page.posts.each(function(post){ %>
-    <%- partial('article', {post: post, index: true}) %>
-  <% }) %>
-<% } else { %>
-  <% var last; %>
-  <% page.posts.each(function(post, i){ %>
-    <% var year = post.date.year(); %>
-    <% if (last != year){ %>
-      <% if (last != null){ %>
-        </div></section>
-      <% } %>
-      <% last = year; %>
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a>
+    <a href="/<%= post.path %>" class="project-cover">
+      <div class="cover-content-container">
+        <div class="cover-image-wrap">
+          <div class="cover-image">
+            <!-- <img src="<%= post.thumb %>" alt="<%= post.title %>" /> -->
+            <div class="cover cover-normal" style="background: url(<%= post.thumb %>) no-repeat 50% 50% / cover; padding-bottom: 75%;"></div>
+          </div>
         </div>
-        <div class="archives">
-    <% } %>
-    <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
-  <% }) %>
-  <% if (page.posts.length){ %>
-    </div></section>
-  <% } %>
-<% } %>
-<% if (page.total > 1){ %>
-  <nav id="page-nav">
-    <%- paginator({
-      prev_text: "&laquo; __('prev')",
-      next_text: "__('next') &raquo;"
-    }) %>
-  </nav>
-<% } %>
+        <div class="details-wrap">
+          <div class="details">
+            <div class="details-inner">
+              <!-- <div class="date">2016</div> -->
+              <div class="title">
+                <%= post.title %>
+              </div>
+              <div class="tags fields">
+                <% post.tags.each(function(tag){ %>
+                  <span><%= tag.name %></span>
+                <% }) %>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+    <% }) %>
+</section>

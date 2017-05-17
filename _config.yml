@@ -62,8 +62,18 @@ date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 
 # Extensions
-exclude_generator:
-- index
+# exclude_generator:
+# - index
+
+# index generator
+index_generator:
+  path: 'projects/'
+  per_page: 0
+  order_by: -date
+
+index_generator_plus:
+  path: 'all/'
+  per_page: 0
 
 # Pagination
 ## Set per_page to 0 to disable pagination

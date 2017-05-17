@@ -2,6 +2,7 @@
 layout: post
 title: "Premiere"
 date: 2017-05-07T20:03:20.745Z
+thumb: /images/thumb_premiere.jpg
 tags:
   - Concept Design
   - Motion Graphics

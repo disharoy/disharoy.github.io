@@ -6,7 +6,7 @@
     <a href="/">ABOUT</a>
   </div>
   <ul class="group">
-    <li class="gallery-title"><a href="">PROJECTS</a></li>
+    <li class="gallery-title"><a href="/projects/">PROJECTS</a></li>
     <% site.posts.sort('date', -1).each(function(post){ %>
       <li class="project-title">
         <a href="<%- url_for(post.path) %>"><%= post.title %></a>
