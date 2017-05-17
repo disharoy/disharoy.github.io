@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "About Me"
 date: 2017-05-07T20:03:20.745Z
 class: "about"

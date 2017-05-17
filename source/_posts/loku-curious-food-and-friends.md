@@ -31,7 +31,7 @@ Loku has 3 key aspects informed by our design process and insights:
 
 To understand if this concept is of value, we simulated one scenario within Loku and handed it over to real users to experience. The aim of this phase was to understand what they expect from Loku and why someone might want to use it. This exercise helped us understand the unique selling point of Loku on the one hand, and identify features of the service that are unnecessary on the other.
 
-!["Loku can become the world’s largest restaurant without owning a single one" - Participant](/public/images/05Loku.jpg)
+!["Loku can become the world’s largest restaurant without owning a single one" - Participant](/images/05Loku.jpg)
 
 ![](/images/06Loku.jpg)
 

@@ -34,12 +34,25 @@
       var pathname = window.location.pathname;
 	    $('nav li > a[href="'+pathname+'"]').addClass('active');
 
+      // Resize Iframes
+      setTimeout(fixIframes, 100);
+      $(window).resize(fixIframes);
+      function fixIframes(){
+        var articleWidth = $('.project').width();
+        $('iframe').each(function(){
+          var w = $(this).attr('width') || 0;
+          var h = $(this).attr('height') || 0;
+          var aspect = w / h;
+          var targetHeight = articleWidth / aspect;
+          $(this).attr('width', articleWidth);
+          $(this).attr('height', targetHeight);
+        });
+      };
+
       // Scroll to top
       setTimeout(function(){
         var docHeight = $('.project').height();
-        console.log('docHeight', docHeight);
         var winHeight = $(window).height();
-        console.log('winHeight', winHeight);
         if(winHeight > docHeight) {
           $('html').addClass('disable-back-to-top');
         }
