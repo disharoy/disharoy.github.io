@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gwalior Project
-date: 2017-05-17T13:58:30.503Z
+date: 2012-05-17T13:58:30.503Z
 thumb: /images/thumb_gwalior.png
 tags:
   - Copywriting

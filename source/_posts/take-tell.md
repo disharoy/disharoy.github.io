@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take & Tell
-date: 2017-05-17T13:23:55.455Z
+date: 2015-08-17T13:23:55.455Z
 thumb: /images/thumb_take-tell.png
 tags:
   - Branding

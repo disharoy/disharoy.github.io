@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coin Visible
-date: 2017-05-17T13:40:25.420Z
+date: 2015-05-17T13:40:25.420Z
 thumb: /images/thumb_coin.png
 tags:
   - Entrepreneurship
