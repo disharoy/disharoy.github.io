@@ -4,8 +4,10 @@ title: Care to Share
 date: 2016-08-17T13:17:52.365Z
 thumb: /images/thumb_care2share.png
 tags:
-  - User Experience
+  - Design Research
   - Service Design
+  - UX
+  - Interaction Design
 ---
 In India, 50,000 women die during childbirth every year. As the second most populous country in the world, India’s healthcare system is overstretched and underfunded. In there circumstances, Care2Share attempts to put women at the heart of the solution to improving Quality of Care. Care2Share is a service that facilitates a feedback cycle that promotes positive changes in maternal healthcare in India.
 
