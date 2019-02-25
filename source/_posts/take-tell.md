@@ -5,7 +5,7 @@ date: 2015-08-17T13:23:55.455Z
 thumb: /images/thumb_take-tell.png
 tags:
   - Branding
-  - Storyboarding
+  - Storytelling
 ---
 **[Take & Tell](http://takeandtell.org/)** is a global awareness-to-action campaign about drug safety. My role was to design the Visual Identity and Collaterals for the campaign. I also created key visuals for the website and the storyboard for the promotional video.
 
@@ -30,3 +30,4 @@ I used the initial concept to create a dynamic dotted grid which could adapt to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dkvaYzaZ_Uk" frameborder="0" allowfullscreen></iframe>
 
 ***The Take & Tell song has been animated by [Luyi Ma](http://luyima.com/)***
+
