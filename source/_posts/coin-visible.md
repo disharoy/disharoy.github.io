@@ -5,8 +5,8 @@ date: 2015-05-17T13:40:25.420Z
 thumb: /images/thumb_coin.png
 tags:
   - Entrepreneurship
-  - Interaction Design
-  - UI/UX
+  - Service Design
+  - UX Strategy
 ---
 As an exercise in Design Strategy and Innovation, I developed a hypothetical brand strategy for an existing startup - **[Coin.](https://onlycoin.com/)** At this time, Coin was essentially a card that could replace all other cards in your wallet. Over 4 weeks, my team worked on extending Coin's brand strategy[ ](https://onlycoin.com/)into a scalable venture using a combination of entrepreneurial and design thinking.The final result is Coin Visible - a financial service that taps into an uncatered market of freelancers.
 
@@ -23,3 +23,4 @@ The Coin Card allows users to carry and swipe all your cards using just one card
 When the users are doing well on their budgets and have a positive balance, the Impulse saving feature helps them put the money aside. The app widget simply shows a positive or negative balance indicator with is synced with the card itself, so that the user is always aware of the overall situation.
 
 ![](/images/03Coin.gif)
+
