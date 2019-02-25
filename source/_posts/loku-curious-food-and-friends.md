@@ -4,9 +4,10 @@ title: 'Loku: Curious food and friends'
 date: 2016-05-17T13:46:21.348Z
 thumb: /images/thumb_loku.png
 tags:
-  - Graphic Design
-  - UI/UX
-  - Storyboarding
+  - Visual Design
+  - Design Research
+  - Service Prototyping
+  - Illustration
 ---
 This MA Thesis is an exploration of the social constructs among the locals of Helsinki. People new to the city often find it tedious and overwhelming to find friends and feeling at home. Simultaneously, the native residents of Helsinki are lead increasingly isolated lives. This project explores opportunities which interest these "new and old locals" equally, and can bring them together.
 
@@ -39,3 +40,4 @@ To understand if this concept is of value, we simulated one scenario within Loku
 Loku's pilot events have been well received by core users, and now will be explored among other partners and stakeholders to design a strategy around this concept.
 
 ![](/images/07Loku.gif)
+
