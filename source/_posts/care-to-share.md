@@ -25,3 +25,4 @@ Over the 1 year long project, I played contributed in the capacity of design res
 
 [M4ID](http://m4id.fi/project/care2share/) is the strategic design partner on this project. [Read more](http://m4id.fi/project/care2share/) about the project onM4ID's website.The final design outcome from this project will be published later this year.
 
+
