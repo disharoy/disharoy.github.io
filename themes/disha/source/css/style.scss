@@ -1,3 +1,5 @@
+$teal: #43c4ba;
+
 .logo-wrap:after,
 .site-content:after,
 .site-header:after {
@@ -130,8 +132,8 @@ h1 {
    * Address styling not present in IE 8/9.
    */
 mark {
-  background: #ff0;
-  color: #000;
+  background: yellow;
+  color: black;
 }
 /**
    * Address inconsistent and variable font size in all browsers.
@@ -434,7 +436,7 @@ html {
 }
 
 html {
-  background-color: #fff;
+  background-color: white;
   /* stylelint-disable-line function-url-quotes */
   background-position: top center;
   background-repeat: no-repeat;
@@ -793,14 +795,14 @@ nav .gallery-title a {
 }
 
 nav .gallery-title a:hover {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 nav .gallery-title a.active {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
@@ -816,14 +818,14 @@ nav .project-title a {
 }
 
 nav .project-title a:hover {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 400;
   text-transform: none;
 }
 
 nav .project-title a.active {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 400;
   text-transform: none;
@@ -840,14 +842,14 @@ nav .page-title a {
 }
 
 nav .page-title a:hover {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 700;
   text-transform: none;
 }
 
 nav .page-title a.active {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 700;
   text-transform: none;
@@ -864,7 +866,7 @@ nav .link-title a {
 }
 
 nav .link-title a:hover {
-  color: #43c4ba;
+  color: $teal;
   font-style: normal;
   font-weight: 700;
   text-transform: none;
@@ -921,12 +923,12 @@ nav .link-title {
 }
 
 .nav-social a:hover svg {
-  fill: #43c4ba;
+  fill: $teal;
   opacity: 1;
 }
 
 .nav-social svg {
-  fill: #ffffff;
+  fill: white;
   opacity: 1;
   width: 32px;
 }
@@ -979,12 +981,12 @@ nav .link-title {
 }
 
 .masthead-social a:hover svg {
-  fill: #ffffff;
+  fill: white;
   opacity: 1;
 }
 
 .masthead-social svg {
-  fill: #ffffff;
+  fill: white;
   opacity: 1;
   width: 30px;
 }
@@ -1021,7 +1023,7 @@ nav .link-title {
 }
 
 .masthead h1 {
-  color: #ffffff;
+  color: white;
   font-size: 80px;
   font-style: normal;
   font-weight: bold;
@@ -1033,7 +1035,7 @@ nav .link-title {
 }
 
 .masthead p {
-  color: #ffffff;
+  color: white;
   font-size: 24px;
   font-style: normal;
   font-weight: normal;
@@ -1056,7 +1058,7 @@ nav .link-title {
 .masthead-button-1 {
   border: 1px solid rgba(255, 255, 255, 0.6);
   border-radius: 5px;
-  color: #ffffff;
+  color: white;
   font-size: 12px;
   font-style: normal;
   font-weight: bold;
@@ -1069,7 +1071,7 @@ nav .link-title {
 
 .masthead-button-1:hover {
   border: 1px solid rgba(255, 255, 255, 0.3);
-  color: #ffffff;
+  color: white;
   font-style: normal;
   font-weight: bold;
   text-transform: uppercase;
@@ -1257,7 +1259,7 @@ nav .link-title {
   }
 
   .hamburger i {
-    background-color: #000000;
+    background-color: black;
   }
 
   .site-container,
@@ -1272,7 +1274,7 @@ nav .link-title {
   }
 
   .responsive-nav {
-    background-color: #fff;
+    background-color: white;
     bottom: 0;
     display: block;
     height: 100%;
@@ -1334,7 +1336,7 @@ nav .link-title {
   }
 
   .responsive-nav .social {
-    background-color: #fff;
+    background-color: white;
     border-top: 1px solid rgba(0, 0, 0, 0.08);
     bottom: 0;
     left: 0;
@@ -1390,7 +1392,7 @@ nav .link-title {
 
   .close-responsive-button:after,
   .close-responsive-button:before {
-    background-color: #000000;
+    background-color: black;
     content: '';
     display: block;
     height: 20px;
@@ -1675,8 +1677,7 @@ nav .link-title {
 
 .rich-text .title,
 .rich-text h1 {
-  color: #222;
-  color: #43c4ba;
+  color: $teal;
   font-family: "futura-pt-bold",sans-serif;
   font-size: 36px;
   font-style: normal;
@@ -1773,12 +1774,12 @@ nav .link-title {
 }
 
 .rich-text a {
-  color: #43c4ba;
+  color: $teal;
   text-transform: none;
 }
 
 .rich-text a:hover {
-  color: #43c4ba;
+  color: $teal;
   text-decoration: underline;
   text-transform: none;
 }
@@ -1798,7 +1799,7 @@ nav .link-title {
 }
 
 .rich-text .caption {
-  color: #43c4ba;
+  color: $teal;
   font-size: inherit;
   font-style: italic;
   font-weight: 600;
@@ -2231,7 +2232,7 @@ nav .link-title {
 }
 
 .project-cover .cover-image:after {
-  background-color: #fff;
+  background-color: white;
   opacity: 0;
 }
 
@@ -2243,7 +2244,7 @@ nav .link-title {
 
 .project-cover.touch-hover .cover-image:after,
 .project-cover:hover .cover-image:after {
-  background-color: #fff;
+  background-color: white;
   opacity: 0;
 }
 
@@ -2486,7 +2487,7 @@ nav .link-title {
 div[data-reactroot] {
   padding: 20px;
   h1 {
-    color: #43c4ba;
+    color: $teal;
   }
   p,
   img {
