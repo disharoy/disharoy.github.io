@@ -890,7 +890,7 @@ nav .link-title a:hover {
 }
 
 nav .group {
-  padding-bottom: 41px;
+  padding-bottom: 32px;
   padding-top: 0;
 }
 
@@ -1336,15 +1336,14 @@ nav .link-title {
   .responsive-nav .link-title a,
   .responsive-nav .page-title a,
   .responsive-nav .project-title a {
-    font-size: 22px;
-    line-height: 32px;
+    font-size: 18px;
   }
 
   .responsive-nav .gallery-title,
   .responsive-nav .link-title,
   .responsive-nav .page-title,
   .responsive-nav .project-title {
-    padding: 0 0 30px;
+    padding: 0 0 24px;
   }
 
   .responsive-nav .group {
@@ -1367,9 +1366,9 @@ nav .link-title {
   }
 
   .responsive-nav .social a {
-    height: 55px;
-    line-height: 55px;
-    width: 55px;
+    height: 38px;
+    line-height: 38px;
+    width: 38px;
   }
 
   .responsive-nav .social svg {
@@ -1779,6 +1778,22 @@ nav .link-title {
   div,
   p {
     font-size: 18px;
+  }
+  a[title=MailMe],
+  a[title=GetCV] {
+    @include mono;
+    margin-top: 16px;
+    margin-right: 16px;
+    display: inline-block;
+    color: white;
+    background: #333;
+    padding: 6px 24px;
+    border-radius: 20px;
+    font-size: 14px;
+    &:hover {
+      text-decoration: none;
+      color: $teal;
+    }
   }
 }
 
