@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400|IBM+Plex+Sans:300,400,600&display=swap');
+
 $teal: #43c4ba;
+$sidebar-link: #666;
+
+@mixin sans {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+@mixin serif {
+  font-family: 'IBM Plex Serif', serif;
+}
+@mixin mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
 
 .logo-wrap:after,
 .site-content:after,
@@ -20,7 +33,7 @@ $teal: #43c4ba;
 html,
 body,
 div[data-reactroot] {
-  font-family: "proxima-nova",sans-serif !important;
+  @include sans;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -785,13 +798,14 @@ nav {
 }
 
 nav .gallery-title a {
-  color: #999999;
-  font-family: "futura-pt-bold",sans-serif;
+  @include sans;
+  color: $sidebar-link;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
   line-height: 14px;
   text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 nav .gallery-title a:hover {
@@ -809,8 +823,9 @@ nav .gallery-title a.active {
 }
 
 nav .project-title a {
-  color: #999999;
-  font-size: 15px;
+  @include mono;
+  color: $sidebar-link;
+  font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: 20px;
@@ -832,13 +847,14 @@ nav .project-title a.active {
 }
 
 nav .page-title a {
-  color: #999;
-  font-family: "futura-pt-bold",sans-serif;
+  @include sans;
+  color: $sidebar-link;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
   line-height: 16px;
   text-transform: none;
+  letter-spacing: 0.05em;
 }
 
 nav .page-title a:hover {
@@ -856,13 +872,14 @@ nav .page-title a.active {
 }
 
 nav .link-title a {
-  color: #999999;
-  font-family: "futura-pt-bold",sans-serif;
+  @include sans;
+  color: $sidebar-link;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
   line-height: 16px;
   text-transform: none;
+  letter-spacing: 0.05em;
 }
 
 nav .link-title a:hover {
@@ -884,8 +901,7 @@ nav .gallery-title {
 }
 
 nav .project-title {
-  padding-bottom: 2px;
-  padding-top: 11px;
+  padding-top: 16px;
   text-align: left;
 }
 
@@ -1678,10 +1694,10 @@ nav .link-title {
 .rich-text .title,
 .rich-text h1 {
   color: $teal;
-  font-family: "futura-pt-bold",sans-serif;
-  font-size: 36px;
+  @include sans;
+  font-size: 48px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 300;
   line-height: 1.4em;
   text-align: left;
   margin: 0;
@@ -1690,12 +1706,10 @@ nav .link-title {
   width: 100%;
 
   .tags {
-    font-family: "proxima-nova",sans-serif;
+    @include mono;
     display: block;
     color: #3d3d3d;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 600;
     line-height: 22px;
     padding-bottom: 0;
     padding-top: 0;
@@ -1742,6 +1756,7 @@ nav .link-title {
 .rich-text .main-text,
 .rich-text div,
 .rich-text p {
+  @include sans;
   color: #3d3d3d;
   font-size: 16px;
   font-style: normal;
@@ -1764,7 +1779,6 @@ nav .link-title {
   div,
   p {
     font-size: 18px;
-    font-weight: 600;
   }
 }
 
@@ -1977,6 +1991,7 @@ nav .link-title {
 }
 
 .back-to-top a {
+  @include mono;
   color: #999;
   font-size: 18px;
   font-style: normal;
