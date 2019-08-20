@@ -7,7 +7,7 @@ tags:
   - Design Research
   - UX for the Future of Medical Wearables
 ---
-![null](/images/Nokia Health.jpeg)
+![Image from Nokia Health website](/images/Nokia Health.jpeg)
 
 In 2017, Nokia Health acquired [Withings](https://www.withings.com/fi/en/store?gclid=CjwKCAjwtO7qBRBQEiwAl5WC27MZ7qJt8TCCiqUX-OjK3qLZokRXGbK1cFmMVfE4W_Abd0zMiqsuQRoCZnAQAvD_BwE&gclsrc=aw.ds), a digital health company. I joined the Design team at Nokia as a UX Consultant to research potential synergies between existing technologies at Nokia and the Withings ecosystem.
 
@@ -18,4 +18,3 @@ I mapped different scenarios where this medical device can work with the [Health
 During this project, I learnt a lot about the future of healthcare, predictive diagnosis and digital therapeutics. By working in a global organisation with remote teams, I got the experience of co-creating with different divisions, product owners, engineers, doctors and other internal stakeholders. I also learnt a lot from working with a team of design specialists who support both software and hardware development for other future facing Nokia services.
 
 *Due to the confidential nature of this project, I cannot disclose more on my website.*
-
