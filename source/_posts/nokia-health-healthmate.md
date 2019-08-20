@@ -18,3 +18,4 @@ I mapped different scenarios where this medical device can work with the [Health
 During this project, I learnt a lot about the future of healthcare, predictive diagnosis and digital therapeutics. By working in a global organisation with remote teams, I got the experience of co-creating with different divisions, product owners, engineers, doctors and other internal stakeholders. I also learnt a lot from working with a team of design specialists who support both software and hardware development for other future facing Nokia services.
 
 *Due to the confidential nature of this project, I cannot disclose more on my website.*
+
