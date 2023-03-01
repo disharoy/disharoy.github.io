@@ -19,7 +19,7 @@
     "node": ">= 6.9.0"
   },
   "dependencies": {
-    "hexo": "^3.9.0",
+    "hexo": "^6.3.0",
     "hexo-cli": "^1.1.0",
     "hexo-generator-index": "^0.2.1",
     "hexo-image-caption": "^0.1.1",
